@@ -21,8 +21,7 @@ The **Unity WebGL Offset Dumper and Shader Logger** is a userscript designed for
 ## Usage
 
 1. Navigate to any Unity WebGL game hosted on a `.io` domain (e.g., `*://*.io/*`).
-2. Click on the "Offset Dumper" icon in your browser toolbar to open the UI.
-3. Use the "Dump Offsets" button to capture memory offsets.
-4. Export the captured offsets using the "Export Offsets" button.
+2. Use the "Dump Offsets" button to capture memory offsets.
+3. Export the captured offsets using the "Export Offsets" button.
 
 
